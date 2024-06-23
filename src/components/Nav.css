@@ -1,0 +1,16 @@
+.link{
+color: rgb(249, 83, 83);
+text-decoration: none;
+}
+li{
+    padding: 1.5rem;
+}
+.active{
+    padding: 0.7rem;
+    background-color: rgb(255, 255, 255);
+    border-radius: 1.3rem;
+}
+.divi{
+    display: flex;
+    justify-content: space-around;
+}

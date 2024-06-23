@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "uname": "Myself",
+      "pwd": "$2a$05$1rwv4wqVMSZkeESl0HkvJ.Ic6sK4ECtiBmkRn/bsFvI6KIMhkf0xS",
+      "email": "myself@mail.com",
+      "id": 1
+    },
+    {
+      "uname": "User1",
+      "pwd": "$2a$05$232WIST2xiyGT3G/.fykHu2tutilYBpQL59myeQFWrwRGgBIEcsFK",
+      "email": "yourself@gmail.com",
+      "id": 2
+    },
+    {
+      "uname": "bhuvansai@999",
+      "pwd": "$2a$05$zUGzzLFTHrYNRRRthIVh/.SzVklamrzLrP2quiE64wMMGgVbRaA7W",
+      "email": "bhuvan@mail.com",
+      "id": 3
+    }
+  ]
+}
